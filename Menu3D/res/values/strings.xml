@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Menu3DActivity!</string>
+    <string name="app_name">Menu3D</string>
+    <string name="ena">ACTIVITY 1</string>
+    <string name="dvaa">ACTIVITY 2</string>
+    <string name="tri">ACTIVITY 3</string>
+    <string name="stiri">ACTIVITY 4</string>
+
+</resources>
